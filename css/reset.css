@@ -1,0 +1,24 @@
+@charset "UTF-8";
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header, main, section, aside, article, footer, nav, menu, details, figure, figcaption {
+    display: block;
+}
+
+li {
+    list-style: none;
+}
+
+a{
+    text-decoration: none;
+    color: #000;
+}
+img {
+    border: none;
+    vertical-align: middle;
+}
