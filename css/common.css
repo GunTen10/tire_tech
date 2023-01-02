@@ -42,9 +42,7 @@ header h1 a {
 .trigger {
     display: none;
 }
-.trigger .icon_bar {}
 
-.navbar {}
 ul.navbar_gnb {
     margin-left: 163px;
     text-align: center;
@@ -86,7 +84,6 @@ ul.navbar_gnb {
     display: none;
 }
 
-.trigger.open {}
 .trigger.open .icon_bar:nth-child(1) {
     transform: rotate(45deg);
     margin-top: 6px;
